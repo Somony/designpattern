@@ -1,17 +1,20 @@
 package chapter1.combinationandinheritance.test;
 
-import chapter1.combinationandinheritance.MallardDuck;
+import chapter1.combinationandinheritance.MiniDuck;
 
 /**
  * @Author: somon
- * @Date: 2017/11/22 23:47
- * @Desciption: 测试鸭子组合
+ * @Date: 2017/11/27 23:04
+ * @Desciption:
  */
 public class MiniDuckSimulator {
-    public static void main(String [] args){
-        MallardDuck mallardDuck = new MallardDuck();
-        mallardDuck.display();
-        mallardDuck.performFly();
-        mallardDuck.performQuack();
+    public static void main(String[] args) {
+        MiniDuck miniDuck = new MiniDuck();
+        miniDuck.display();
+        miniDuck.performFly();
+        miniDuck.performQuack();
+
+        miniDuck.grow();
+        miniDuck.performFly();
     }
 }
