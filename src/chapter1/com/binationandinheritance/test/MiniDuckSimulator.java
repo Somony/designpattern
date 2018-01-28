@@ -1,6 +1,6 @@
-package chapter1.combinationandinheritance.test;
+package chapter1.com.binationandinheritance.test;
 
-import chapter1.combinationandinheritance.MiniDuck;
+import chapter1.com.binationandinheritance.MiniDuck;
 
 /**
  * @Author: somon

@@ -1,7 +1,7 @@
-package chapter1.combinationandinheritance;
+package chapter1.com.binationandinheritance;
 
-import chapter1.combinationandinheritance.impl.FlyWithWings;
-import chapter1.combinationandinheritance.impl.Quack;
+import chapter1.com.binationandinheritance.impl.FlyWithWings;
+import chapter1.com.binationandinheritance.impl.Quack;
 
 /**
  * @Author: somon
@@ -16,6 +16,6 @@ public class MallardDuck extends Duck {
 
     @Override
     public void display() {
-        System.out.println("I am a real Mallard duck");
+        System.out.println("I am a green head duck");
     }
 }

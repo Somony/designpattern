@@ -1,8 +1,8 @@
-package chapter1.combinationandinheritance;
+package chapter1.com.binationandinheritance;
 
-import chapter1.combinationandinheritance.impl.FlyNoWay;
-import chapter1.combinationandinheritance.impl.FlyWithWings;
-import chapter1.combinationandinheritance.impl.Quack;
+import chapter1.com.binationandinheritance.impl.FlyNoWay;
+import chapter1.com.binationandinheritance.impl.FlyWithWings;
+import chapter1.com.binationandinheritance.impl.Quack;
 
 /**
  * @Author: somon

@@ -1,6 +1,6 @@
-package chapter1.combinationandinheritance.impl;
+package chapter1.com.binationandinheritance.impl;
 
-import chapter1.combinationandinheritance.base.QuackBehavior;
+import chapter1.com.binationandinheritance.base.QuackBehavior;
 
 /**
  * @Author: somon

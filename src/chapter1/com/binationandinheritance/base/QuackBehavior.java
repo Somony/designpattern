@@ -1,4 +1,4 @@
-package chapter1.combinationandinheritance.base;
+package chapter1.com.binationandinheritance.base;
 
 /**
  * @Author: somon
